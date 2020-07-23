@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**drunkrhin0/drunkrhin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/drunkrhin0)](https://twitter.com/drunkrhin0)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/tawilr/)
+[![medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@drunkrhin0)
+[![GitHub followers](https://img.shields.io/github/followers/drunkrhin0.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/drunkrhin0?tab=followers)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a cyber security analyst with a large interest in Active Directory, Azure, digital forensics, penetration testing and social engineering.
+
+- 🔭 I’m currently working PowerShell automation.
+- 🌱 I’m currently learning penetration testing.
+- ⭐️ I star alot of great tools on GitHub
+- ⚡ Fun fact: I'm a professional photographer
