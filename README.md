@@ -11,5 +11,5 @@ I'm a cyber security analyst with a large interest in Active Directory, Azure, d
 
 - 🔭 I’m currently working PowerShell automation.
 - 🌱 I’m currently learning penetration testing.
-- ⭐️ I star alot of great tools on GitHub
-- ⚡ Fun fact: I'm a professional photographer
+- ⭐️ I star alot of great tools on GitHub.
+- ⚡ Fun fact: I'm a professional photographer.
