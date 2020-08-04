@@ -16,4 +16,6 @@ I'm a cyber security analyst with a large interest in Active Directory, Azure, d
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [A Graduate’s Thoughts: How to Get Started in Information Security and Cyber Security](https://medium.com/heck-the-packet/a-graduates-thoughts-how-to-get-started-in-information-security-and-cyber-security-d01a1efaed0f?source=rss-c962887f9faf------2)
+- [Building an Active Directory Lab — Part 1A: AutomatedLab](https://medium.com/swlh/building-an-active-directory-lab-part-1a-automatedlab-fc2399ebe5be?source=rss-c962887f9faf------2)
 <!-- BLOG-POST-LIST:END -->
