@@ -7,7 +7,7 @@
 
 ## About me
 
-I'm a security consultant at Bugcrowd. I have a large interest in Active Directory, Azure, digital forensics, penetration testing and social engineering.
+I'm a Technical Project manager. I have a large interest in Active Directory, Azure, digital forensics, penetration testing and social engineering.
 
 - 🔭 I’m currently working on PowerShell automation.
 - ⭐️ I star a lot of great tools on GitHub.
