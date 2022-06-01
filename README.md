@@ -7,9 +7,9 @@
 
 ## About me
 
-I'm a Technical Project manager. I have a large interest in Active Directory, Azure, digital forensics, penetration testing and social engineering.
+I work in Researcher Success at Bugcrowd. I have a large interest in Bug Bounties, Microsoft, digital forensics, penetration testing and social engineering.
 
-- 🔭 I’m currently working on PowerShell automation.
+- 🔭 I’m currently improving my docker knowledge.
 - ⭐️ I star a lot of great tools on GitHub.
 - ⚡ Fun fact: I'm a professional photographer.
 
