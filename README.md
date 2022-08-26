@@ -19,3 +19,8 @@ I work in Researcher Success at Bugcrowd. I have a large interest in Bug Bountie
 - [A Graduate’s Thoughts: How to Get Started in Information Security and Cyber Security](https://medium.com/heck-the-packet/a-graduates-thoughts-how-to-get-started-in-information-security-and-cyber-security-d01a1efaed0f?source=rss-c962887f9faf------2)
 - [Building an Active Directory Lab — Part 1A: AutomatedLab](https://medium.com/swlh/building-an-active-directory-lab-part-1a-automatedlab-fc2399ebe5be?source=rss-c962887f9faf------2)
 <!-- BLOG-POST-LIST:END -->
+
+## Helpful Twitter Threads
+- [Learn about GraphQL hacking](https://twitter.com/drunkrhin0/status/1375038146409271300)
+- [Cybersecurity &amp; Tech Content I Discovered in 2020](https://twitter.com/drunkrhin0/status/1344130685817085959)
+- [How to use the Twitter API (v1)](https://twitter.com/drunkrhin0/status/1397099084704485379)
