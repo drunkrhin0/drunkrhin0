@@ -24,3 +24,4 @@ I work in Researcher Success at Bugcrowd. I have a large interest in Bug Bountie
 - [Learn about GraphQL hacking](https://twitter.com/drunkrhin0/status/1375038146409271300)
 - [Cybersecurity &amp; Tech Content I Discovered in 2020](https://twitter.com/drunkrhin0/status/1344130685817085959)
 - [How to use the Twitter API (v1)](https://twitter.com/drunkrhin0/status/1397099084704485379)
+- [Active Directory Security Blogs](https://twitter.com/drunkrhin0/status/1564757368168099840)
