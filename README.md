@@ -1,20 +1,29 @@
-## Hi 👋
+<h2 align="center">👀 I see you.....Hi 👋</h2>
 
-[![Twitter](https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/drunkrhin0)](https://twitter.com/drunkrhin0)
-[![Mastodon - Infosec Exchange](https://img.shields.io/mastodon/follow/109299352016876860?domain=https%3A%2F%2Finfosec.exchange&style=social)]
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/tawilr/)
-[![Medium](https://aleen42.github.io/badges/src/medium.svg)](https://medium.com/@drunkrhin0)
-[![GitHub followers](https://img.shields.io/github/followers/drunkrhin0.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/drunkrhin0?tab=followers)
+###
 
-## About Me
+<div align="center">
+    <a href="https://www.twitter.com/drunkrhin0" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    </a>
+    <a href="https://www.linkedin.com/in/tawilr/" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    </a>
+    <a href="https://www.drunkrhin0.blog/" target="_blank">
+        <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" height="25" alt="website logo"  />
+    <a href="https://medium.com/@drunkrhin0" target="_blank">
+        <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="medium logo"  />
+    </a>
+</div>
 
-I am a Security Solutions Architect at Bugcrowd. I have a large interest in web hacking, OSINT, cloud security, and social engineering.
+###💲whoami
 
+- 💻 Security Solutions Architect at [Bugcrowd](https://www.bugcrowd.com/)
 - 🔭 I’m currently improving my web3 knowledge.
-- ⭐️ Sometimes I write useful things. You can check them out below 👇.
-- 📸 Fun fact: I'm a professional photographer.
+- 📸 Taking photos when I'm not in front of a computer.
+- ⭐️ Sometimes I write useful things. You can check them out below 👇
 
-## Blog Posts
+### Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [The Best Information Security Newsletters to Stay Updated](https://www.drunkrhin0.blog/posts/the-best-information-security-newsletters-to-stay-updated/)
 - [Learn Active Directory Security With These Blogs](https://www.drunkrhin0.blog/posts/learn-active-directory-security-with-these-blogs.md/)
@@ -24,12 +33,6 @@ I am a Security Solutions Architect at Bugcrowd. I have a large interest in web 
 - [Building an Active Directory Lab — Part 1A: AutomatedLab](https://www.drunkrhin0.blog/posts/building-an-active-directory-lab-part-1a-automatedlab-part-1a-automatedlab/)
 <!-- BLOG-POST-LIST:END -->
 
-## Helpful Twitter Threads
-- [Starting Bug Bounties](https://twitter.com/drunkrhin0/status/1656580653633376257)
-- [Learn about GraphQL hacking](https://twitter.com/drunkrhin0/status/1375038146409271300)
-- [Cybersecurity &amp; Tech Content I Discovered in 2020](https://twitter.com/drunkrhin0/status/1344130685817085959)
-- [How to use the Twitter API (v1)](https://twitter.com/drunkrhin0/status/1397099084704485379)
-- [Active Directory Security Blogs](https://twitter.com/drunkrhin0/status/1564757368168099840)
-
-## Helpful Twitter Lists
-- [Bug Bounty Platforms](https://twitter.com/i/lists/1580830663925981184)
+## Helpful Twitter Resources
+- [🧵 Starting Bug Bounties](https://twitter.com/drunkrhin0/status/1656580653633376257)
+- [📃 Bug Bounty Platforms](https://twitter.com/i/lists/1580830663925981184)
