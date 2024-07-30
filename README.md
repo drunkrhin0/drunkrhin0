@@ -17,12 +17,14 @@
 ### 💲whoami
 
 - 💻 Security Solutions Architect at [Bugcrowd](https://www.bugcrowd.com/)
-- 🔭 I’m currently improving my web3 knowledge.
+- 🔭 I’m currently improving my AI knowledge.
 - 📸 Taking photos when I'm not in front of a computer.
 - ⭐️ Sometimes I write useful things. You can check them out below 👇
 
 ### Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Bugcrowd: How to write an enticing managed bug bounty brief](https://www.bugcrowd.com/blog/how-to-write-an-enticing-managed-bug-bounty-brief/)
+- [Bugcrowd: Demystifying crowdsourced security: How to choose the right engagement for your organization](https://www.bugcrowd.com/blog/demystifying-crowdsourced-security-how-to-choose-the-right-engagement-for-your-organization/)
 - [The Best Information Security Newsletters to Stay Updated](https://www.drunkrhin0.blog/posts/the-best-information-security-newsletters-to-stay-updated/)
 - [Learn Active Directory Security With These Blogs](https://www.drunkrhin0.blog/posts/learn-active-directory-security-with-these-blogs.md/)
 - [Learn GraphQL Hacking](https://www.drunkrhin0.blog/posts/learn-graphql-hacking/)
